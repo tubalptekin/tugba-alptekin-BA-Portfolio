@@ -1,0 +1,91 @@
+Vize Başvuru Merkezi Yönetim Sistemi – Proje Tanımı
+🎯 Amaç
+
+Bu proje, farklı ülkelerin vize başvuru süreçlerini yöneten bir merkezin başvuruları dijital ortamda toplamasını, işlemesini, doğrulamasını ve yönetmesini sağlayan kapsamlı bir sistem tasarlamayı amaçlar.
+
+Sistem;
+
+Kullanıcı arayüzünü
+
+Operasyon personeli ekranlarını
+
+Arka plan iş akışlarını (workflow)
+
+Ülkeye göre değişen belge gereksinimleri
+
+Randevu ve ödeme sürecini
+tek bir çatı altında yönetir.
+
+🧩 Kapsam
+1) Başvuru Sahibi (Frontend)
+
+Ülke seçimi
+
+Vize türü seçimi
+
+Online başvuru oluşturma
+
+Evrak yükleme
+
+Randevu planlama
+
+Ödeme
+
+Başvuru durumu takibi
+
+Bildirimler (SMS/E-posta)
+
+2) Operasyon Personeli (Backend UI)
+
+Başvuruları görüntüleme
+
+Evrak uygunluk kontrolü
+
+Başvuru onay / red
+
+Eksik belge talebi
+
+Randevu yönetimi
+
+Ülkeye göre evrak seti tanımlama
+
+Rapor ekranları
+
+3) Sistem İş Akışları (Workflow – Backend)
+
+Evrak kontrol akışı
+
+Otomatik hatırlatma e-postaları
+
+Ülke bazlı validasyon
+
+Ödemeden sonra başvurunun kilitlenmesi
+
+İnceleme → Onay → Konsolosluğa iletim süreci
+
+Başvuru teslim alındı → sonuçlandı → kullanıcıya bildirim
+
+🌐 Kapsam Dışı
+
+Konsolosluk iç sistemleri
+
+Kurye dağıtımı
+
+Biyometri cihaz entegrasyonları (istem dışı)
+
+👤 Actor Listesi
+External Actors
+
+Başvuru Sahibi (User)
+
+Konsolosluk (Systems)
+
+Internal Actors
+
+Operasyon Personeli
+
+Doküman Kontrol Uzmanı
+
+Sistem Yöneticisi
+
+Ödeme Servisi
