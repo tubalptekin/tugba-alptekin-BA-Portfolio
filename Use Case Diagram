@@ -1,0 +1,49 @@
+# Use Case Diagram – Visa Application Management System
+
+This diagram represents the interaction between all actors and the system.  
+Actors: Applicant (User), Operations Staff, Automation Engine, Consulate System.
+
+## UML Use Case Diagram (ASCII Format)
+
++-------------------------------------------+
+             |  Vize Başvuru Merkezi Yönetim Sistemi     |
+             |-------------------------------------------|
+             |                                           |
+             |   (UC-01) Ülke Seçme                      |
+User ------> |   (UC-02) Vize Türü Seçme                 |
+             |   (UC-03) Başvuru Formu Oluşturma         |
+             |   (UC-04) Evrak Yükleme                   |
+             |   (UC-05) Randevu Alma                    |
+             |   (UC-06) Ödeme Yapma                     |
+             |   (UC-07) Başvuru Durumu Takip            |
+             |   (UC-08) Eksik Belge Yükleme             |
+             |   (UC-09) Başvuru Detayları Görüntüleme   |
+             |                                           |
+             |-------------------------------------------|
+             |   (UC-11) Başvuruları Listeleme           |
+Operasyon -->|   (UC-12) Başvuru İnceleme                |
+Personeli    |   (UC-13) Evrak Kontrol                   |
+             |   (UC-14) Onaylama                        |
+             |   (UC-15) Reddetme                        |
+             |   (UC-16) Eksik Belge Talebi              |
+             |   (UC-17) Randevu Yönetimi                |
+             |   (UC-18) Evrak Seti Yönetimi             |
+             |   (UC-19) Raporlama                       |
+             |-------------------------------------------|
+             |   (UC-20) Otomatik Validasyon             |
+Automation -->|   (UC-21) Ödeme Sonrası Kilitleme         |
+Engine       |   (UC-22) Bildirim Gönderme              |
+             |   (UC-23) Konsolosluğa Gönderim          |
+             |   (UC-24) Sonuç Bildirimi                 |
+             |                                           |
+             |-------------------------------------------|
+             |   (UC-26) Başvuruyu Al                    |
+Konsolosluk->|   (UC-27) Sonuç Gönder                    |
+Sistemi      |                                           |
+             +-------------------------------------------+
+## Summary
+
+- Frontend User handles country selection, form filling, document upload, appointment, payment.
+- Back Office reviews, approves, rejects, and manages applicant documents.
+- Automation Engine handles validation, locking, and notifications.
+- Consulate systems receive application data and return results.
