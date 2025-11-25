@@ -18,6 +18,9 @@ Aşağıdaki diyagram sistemin temel aktörlerini ve ana kullanım senaryoların
 
 [Yönetici] ----------------------> (Performans Değerlendirmesi Oluşturma)
 
+![Personnel Performance Evaluation](./Personnel-Performance-Evaluation.png) 
+
+
 [Yönetici] ----------------------> (Çalışan Performans Raporunu Görüntüleme)
 
 [Yönetici] ----------------------> (Eğitim Önerilerini Görüntüleme)
