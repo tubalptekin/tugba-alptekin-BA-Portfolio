@@ -5,13 +5,13 @@ Aşağıdaki diyagram sistemin temel aktörlerini ve ana kullanım senaryoların
 [Personel] ----------------------> (Eğitimleri Görüntüleme)
 
 
-![Training List](./Training-List.png)
+![Training List](./Training-Lists.png)
 
 
 [Personel] ----------------------> (Eğitime Kayıt Olma)
 
 
-![EnrollmentForm](./Enrollment-Form.png)
+![Enrollment Form](./Enrollment-Forms.png)
 
 [Personel] ----------------------> (Performans Raporunu Görüntüleme)
 
