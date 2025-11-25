@@ -1,27 +1,74 @@
-# tugba-alptekin-BA-Portfolio
-👋 Hi, I'm Tuğba Alptekin
-Junior Business Analyst | MIS Graduate (2025) | Process & UX Focused
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tubalptekin/tugba-alptekin-BA-Portfolio/main/images/portfolioBanner.png" 
+       alt="Tuğba Alptekin - Business Analyst Portfolio Banner" 
+       width="900">
+</p>
 
-Welcome to my Business Analysis Portfolio.
-Here, I showcase real-world case studies, user stories, requirements, process maps, and documentation examples that reflect my BA mindset and analytical approach.
+<h3 align="center">👋 Hi, I'm <strong>Tuğba Alptekin</strong></h3>
+<h4 align="center">Junior Business Analyst | MIS Graduate (2025) | Process & UX Focused</h4>
 
-My goal for 2026 is to grow into a strong Business Analyst with solid technical and functional analysis skills — and this portfolio is a living space where I highlight how I think, analyze, design, and solve problems.
+<p align="center">
 
-🚀 What You’ll Find Here
+  <img src="https://img.shields.io/badge/Role-Business%20Analyst-C8B6FF?style=for-the-badge&logoColor=4B3B8F" />
 
-This repository contains 3 end-to-end Business Analysis projects, including:
+  <img src="https://img.shields.io/badge/MIS-Graduate-EBD7FF?style=for-the-badge&logoColor=4B3B8F" />
 
-1️⃣ Video Watching Module (E-learning Platform)
+  <img src="https://img.shields.io/badge/BPMN-Modeling-A8C1FF?style=for-the-badge&logoColor=4B3B8F" />
 
-A complete analysis of a core video playback feature including:
+  <img src="https://img.shields.io/badge/UML-Use%20Cases-C8B6FF?style=for-the-badge&logoColor=4B3B8F" />
+
+  <img src="https://img.shields.io/badge/SQL-Beginner-DDE1E7?style=for-the-badge&logoColor=4B3B8F" />
+
+  <img src="https://img.shields.io/badge/API-Testing-A8C1FF?style=for-the-badge&logoColor=4B3B8F" />
+
+  <img src="https://img.shields.io/badge/Figma-Design-EBD7FF?style=for-the-badge&logoColor=4B3B8F" />
+
+  <img src="https://img.shields.io/badge/Miro-Flowcharts-C8B6FF?style=for-the-badge&logoColor=4B3B8F" />
+
+</p>
+
+
+## 🔗 Quick Access  
+<p align="center">
+
+  <a href="https://github.com/tubalptekin/tugba-alptekin-BA-Portfolio/tree/main/Case-Studies/Visa-Application-Center">
+    <img src="https://img.shields.io/badge/Visa%20Application%20Center-Case%20Study-C8B6FF?style=for-the-badge&logoColor=4B3B8F" />
+  </a>
+
+  <a href="https://github.com/tubalptekin/tugba-alptekin-BA-Portfolio/tree/main/Case-Studies/Personnel-Performance-Training-System">
+    <img src="https://img.shields.io/badge/Performance%20%26%20Training%20System-Case%20Study-A8C1FF?style=for-the-badge&logoColor=4B3B8F" />
+  </a>
+
+  <a href="https://github.com/tubalptekin/tugba-alptekin-BA-Portfolio/tree/main/Case-Studies/BA-Projects">
+    <img src="https://img.shields.io/badge/Video%20Module-Case%20Study-EBD7FF?style=for-the-badge&logoColor=4B3B8F" />
+  </a>
+
+</p>
+
+
+
+Welcome to my Business Analysis Portfolio — a curated collection of real-world case studies, requirements documentation, user stories, UML/BPMN models, and process improvement work.
+
+This repository reflects how I analyze, structure, design, and improve systems.
+My goal for 2026 is to grow into a strong Business Analyst with solid functional analysis, modelling, and problem-solving skills.
+
+🚀 What’s Inside This Portfolio?
+
+This repository currently showcases three end-to-end Business Analysis projects, each designed with real industry workflows in mind.
+
+1️⃣ Video Watching Module (E-learning Feature)
+
+Focused on designing a seamless user experience for a learning platform.
+
+Includes:
 
 Problem definition
 
+Use case flows
+
 User stories & acceptance criteria
 
-Use case specification
-
-System flow
+System behavior documentation
 
 Wireframes
 
@@ -31,53 +78,103 @@ Value proposition
 
 (University Capstone Project)
 
-Requirement list
+A complete internal HR process analysis:
 
-BPMN diagrams
+Requirements documentation
 
-Role definitions
+BPMN diagrams (end-to-end flows)
 
-Dashboard ideas
+User stories
 
-Sample UI sketches
+Stakeholder mapping
+
+Dashboard concepts
+
+Wireframes (training, enrollment, performance screens)
 
 3️⃣ Visa Application Center – Process Analysis
 
-Industry-like process improvement case:
+Industry-like, multi-lane workflow analysis inspired by global visa centers.
 
-AS-IS process map
+Includes:
 
-Pain points
+AS-IS and TO-BE process thinking
 
-TO-BE redesigned flow
+Use case list (Applicant, Operations, Automation, Consulate)
 
-Improvement proposals
+End-to-end BPMN model
 
-🧰 Tools & Techniques I Use
+Requirements
 
-Analysis Techniques: User Stories, Use Cases, Acceptance Criteria, Requirement Elicitation
+User stories
 
-Modeling: BPMN, UML, Process Flow Diagrams
+Improvements & process redesign
 
-Tools: Figma, Miro, Lucidchart, Jira
+🧰 Tools & Techniques
+Analysis Techniques
 
-Technical Skills: SQL basics, API fundamentals, data-oriented thinking
+User Stories, Acceptance Criteria
 
-Soft Skills: Communication, problem-solving, documentation, user-centric thinking
+Use Cases, Functional/Non-Functional Requirements
 
-🌱 My BA Learning Goals for 2026
+Process & System Analysis
+
+Elicitation Techniques
+
+Modeling
+
+BPMN
+
+UML (Use Case Models)
+
+Process Flow Diagrams
+
+Wireframes
+
+Tools
+
+Figma
+
+Miro
+
+Lucidchart
+
+Jira / Confluence
+
+Technical Skills
+
+SQL (beginner)
+
+API basics
+
+Data-oriented thinking
+
+Documentation & reporting
+
+Soft Skills
+
+Clear communication
+
+Analytical mindset
+
+Stakeholder understanding
+
+User-centric thinking
+
+🌱 Learning Goals for 2026
 
 Strengthen system & functional analysis
 
+Improve BPMN/UML modelling
+
 Learn advanced SQL
 
-Dive into API testing
+Explore API testing & Postman
 
-Improve modelling skills (BPMN/UML)
+Produce more real-world case studies
 
-Deliver more real-world case studies
-
-📬 Contact
+*Thanks for visiting my portfolio 💜*  
+📬 Let's connect
 
 LinkedIn: https://www.linkedin.com/in/tugbaalptekin/
 
