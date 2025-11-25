@@ -19,7 +19,7 @@ Diyagram; çevrimiçi başvuru, evrak yükleme, randevu alma, ödeme, biyometri 
 
 Aşağıda oluşturdğum diagram BPMN yapısını göstermektedir:
 
-![Visa BPMN Ent-to-End Diagram](./Visa-Application-Center/visa-bpmn.png)
+![Visa BPMN Ent-to-End Diagram](./visa-bpmn.png)
 
 
 
