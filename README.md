@@ -56,23 +56,23 @@ My goal for 2026 is to grow into a strong Business Analyst with solid functional
 
 This repository currently showcases three end-to-end Business Analysis projects, each designed with real industry workflows in mind.
 
-1️⃣ Video Watching Module (E-learning Feature)
+1️⃣ Visa Application Center – Process Analysis
 
-Focused on designing a seamless user experience for a learning platform.
+Industry-like, multi-lane workflow analysis inspired by global visa centers.
 
 Includes:
 
-Problem definition
+AS-IS and TO-BE process thinking
 
-Use case flows
+Use case list (Applicant, Operations, Automation, Consulate)
 
-User stories & acceptance criteria
+End-to-end BPMN model
 
-System behavior documentation
+Requirements
 
-Wireframes
+User stories
 
-Value proposition
+Improvements & process redesign
 
 2️⃣ Personnel Performance & Training Tracking System
 
@@ -92,23 +92,24 @@ Dashboard concepts
 
 Wireframes (training, enrollment, performance screens)
 
-3️⃣ Visa Application Center – Process Analysis
+3️⃣ Video Watching Module (E-learning Feature)
 
-Industry-like, multi-lane workflow analysis inspired by global visa centers.
+Focused on designing a seamless user experience for a learning platform.
 
 Includes:
 
-AS-IS and TO-BE process thinking
+Problem definition
 
-Use case list (Applicant, Operations, Automation, Consulate)
+Use case flows
 
-End-to-end BPMN model
+User stories & acceptance criteria
 
-Requirements
+System behavior documentation
 
-User stories
+Wireframes
 
-Improvements & process redesign
+Value proposition
+
 
 🧰 Tools & Techniques
 Analysis Techniques
