@@ -110,57 +110,54 @@ Wireframes
 
 Value proposition
 
+---
 
-🧰 Tools & Techniques
-Analysis Techniques
+## 🧰 Skills
 
-User Stories, Acceptance Criteria
+<div align="center">
 
-Use Cases, Functional/Non-Functional Requirements
+### <span style="color:#4B3B8F"> 📊📉 </span>
+<img src="https://img.shields.io/badge/Analysis%20Skills-C8B6FF?style=for-the-badge&logoColor=4B3B8F" />
 
-Process & System Analysis
+<ul align="left">
+  <li>Requirements Gathering</li>
+  <li>User Stories & Acceptance Criteria</li>
+  <li>Use Case Analysis</li>
+  <li>Process Analysis</li>
+  <li>Problem Definition</li>
+</ul>
 
-Elicitation Techniques
+---
 
-Modeling
+### <span style="color:#4B3B8F">📐🔎 </span>
+<img src="https://img.shields.io/badge/Modeling%20Skills-A8C1FF?style=for-the-badge&logoColor=4B3B8F" />
 
-BPMN
+<ul align="left">
+  <li>BPMN Modeling</li>
+  <li>UML Use Case Diagrams</li>
+  <li>Process Flow Mapping</li>
+  <li>Wireframing</li>
+  <li>System Behavior Design</li>
+</ul>
 
-UML (Use Case Models)
+---
 
-Process Flow Diagrams
+### <span style="color:#4B3B8F">⚙💻 </span>
+<img src="https://img.shields.io/badge/Tools%20%26%20Technical-EBD7FF?style=for-the-badge&logoColor=4B3B8F" />
 
-Wireframes
+<ul align="left">
+  <li>Figma</li>
+  <li>Miro</li>
+  <li>Lucidchart</li>
+  <li>SQL (Basic)</li>
+  <li>API Fundamentals</li>
+</ul>
 
-Tools
+</div>
 
-Figma
+---
 
-Miro
 
-Lucidchart
-
-Jira / Confluence
-
-Technical Skills
-
-SQL (beginner)
-
-API basics
-
-Data-oriented thinking
-
-Documentation & reporting
-
-Soft Skills
-
-Clear communication
-
-Analytical mindset
-
-Stakeholder understanding
-
-User-centric thinking
 
 🌱 Learning Goals for 2026
 
