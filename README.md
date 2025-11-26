@@ -129,7 +129,7 @@ Value proposition
 
 ---
 
-### <span style="color:#4B3B8F">📐🔎 </span>
+### <span style="color:#4B3B8F">🔎📐 </span>
 <img src="https://img.shields.io/badge/Modeling%20Skills-A8C1FF?style=for-the-badge&logoColor=4B3B8F" />
 
 <ul align="left">
