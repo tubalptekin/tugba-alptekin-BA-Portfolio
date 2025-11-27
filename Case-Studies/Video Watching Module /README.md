@@ -136,6 +136,13 @@ Video-Watching-Module/
 └── continue-modal.png
 
 ---
+İleride eklenecekler :
+- Search & Filter Module
+Kullanıcı videoları filtreler, sıralar, kategoriye göre arar.
+- Playlist / Favorites Module
+Kullanıcı videoyu favorilere ekler, çıkarır, liste oluşturur.
+- Authentication Module (Login / Register / Forgot Password)
+Gerçek bir sistem analizi modülü.
 
 If you want to explore the rest of my Business Analysis work, you can visit my full portfolio 👇  
 🔗 **https://github.com/tubalptekin/tugba-alptekin-BA-Portfolio**
