@@ -53,3 +53,46 @@ Exceptions
 E01: Timestamp corrupted → Reset to 0:00
 
 E02: Network error → Retry option is shown
+
+# ACCEPTANCE CRITERIA (Gherkin Format)
+
+### Scenario 1: 
+Show continue watching modal
+
+Given the user is logged in
+
+And a saved timestamp exists for the selected video
+
+When the user opens the video
+
+Then the system should display the “Continue Watching” modal
+
+And the modal should show the saved timestamp
+
+
+### Scenario 2: 
+Resume from saved timestamp
+
+Given the user sees the Continue Watching modal
+
+When the user clicks “Resume”
+
+Then playback should start from the saved timestamp
+
+### Scenario 3: 
+Start over
+
+Given the user sees the Continue Watching modal
+
+When the user clicks “Start Over”
+
+Then playback should start from 0:00
+
+### Scenario 4: 
+No saved progress
+
+Given no saved timestamp exists for the video
+
+When the user opens the video
+
+Then playback should start from 0:00 immediately
