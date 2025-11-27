@@ -44,11 +44,44 @@ when a delay update is published from the OCC.
 
 
 ## 🎯 Objective
+
+This case study aims to demonstrate how a Business Analyst approaches operational disruption,
+evaluates system impact areas, and designs a structured solution to minimize passenger inconvenience,
+operational cost, and cascading delays.
 To demonstrate analytical thinking, system interaction understanding, and solution-oriented analysis for aviation operations — especially for teams like Turkish Airlines.
 
 <br>
 
 ---
+
+## 🖥 Sample UI Screens 
+
+- Passenger Notification Mockup 
+- Delay Status Card
+- Gate Change Popup
+
+
+## 📌 Scope
+
+This analysis covers:
+- Delay propagation and operational impact
+- Passenger-facing updates and notification logic
+- Gate, crew, and aircraft assignment impacts
+- System-to-system communication during disruption
+
+## 🚫 Out of Scope
+
+This analysis does ***not*** cover:
+- Airline pricing logic
+- Maintenance delay root-cause analysis
+- Weather forecasting systems
+
+## 📚 Key Insights
+
+- Even small delays create multi-system ripple effects (PNR, FIDS, Gate Ops, Crew legality).
+- A structured notification + resource recalculation strategy reduces passenger frustration.
+- Standardizing disruption-handling events improves OCC efficiency and reduces operational risk.
+
 
 ## 📁 Project Structure (This folder will include)
 01-Scope-and-Actors
