@@ -128,3 +128,8 @@ Video-Watching-Module/
 
 └── continue-modal.png
 
+---
+
+If you want to explore the rest of my Business Analysis work, you can visit my full portfolio 👇  
+🔗 **https://github.com/tubalptekin/tugba-alptekin-BA-Portfolio**
+
