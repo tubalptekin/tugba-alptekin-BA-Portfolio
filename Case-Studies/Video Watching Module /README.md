@@ -72,10 +72,12 @@ As a user, I want the system to mark videos as completed so I can measure my lea
 ---
 
 ## 🔄 5. System Flow (Flowchart)
+### 📌📺 Continue Watching – System Flow
+<p align="center">
+  <img src="flowcharts/video-module-flow.png" width="600" />
+</p>
 
-📌 *Flowchart image will be added here.*  
-`/flowcharts/video-module-flow.png`
-
+  ##### *This system flow outlines how the video player determines whether to resume playback from a previously saved timestamp or start from the beginning. It captures the decision-making logic behind the Continue Watching experience, ensuring seamless user interaction and consistent playback behavior. Diagram created in FigJam.*
 ---
 
 ## 🖼️ 6. Wireframes
