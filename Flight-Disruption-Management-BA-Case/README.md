@@ -55,11 +55,20 @@ To demonstrate analytical thinking, system interaction understanding, and soluti
 ---
 
 ## 🖥 Sample UI Screens 
+### 📱 Passenger Notification UI Mockup
 
-- Passenger Notification Mockup 
-- Delay Status Card
-- Gate Change Popup
+Below is a sample passenger-facing UI that demonstrates how a delay update is communicated via mobile push notifications and SMS channels.
 
+<p align="center">
+  <img src="images/flight-notification-ui.png" width="650">
+</p>
+
+### 🛫 Passenger Rebooking UI 
+This screen shows how passengers can view available alternative flights, accept rebooking offers, or request compensation depending on regulations.
+
+<p align="center">
+  <img src="images/flight-rebooking-ui.png" width="650">
+</p>
 
 ## 📌 Scope
 
