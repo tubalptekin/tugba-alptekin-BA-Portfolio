@@ -1,14 +1,14 @@
-##📺 Video Watching Module – Business Analysis
+#📺 Video Watching Module – Business Analysis 
 
 The Video Watching Module is a core feature of an e-learning platform that enables users to watch videos, track their progress, and seamlessly continue where they left off.
 This analysis focuses on user behavior, progress tracking, and the “Continue Watching” experience.
 
-⭐ 1. Overview
+##⭐ 1. Overview
 
 This module covers how users interact with video content, how the system saves their progress, and how previously watched videos are retrieved.
 It also defines the logic behind the Continue Watching modal and user experience improvements.
 
-⭐ 2. User Stories
+##⭐ 2. User Stories
 
 US-01 – Watch Video
 
@@ -30,9 +30,9 @@ US-05 – Completion Tracking
 
 As a user, I want videos to be marked as completed so I can track my learning progress.
 
-⭐ 3. Acceptance Criteria
+##⭐ 3. Acceptance Criteria
 
-#AC – Auto Save Progress
+AC – Auto Save Progress
 
 Progress is saved every 10 seconds.
 
@@ -42,7 +42,7 @@ Progress updates instantly when the user seeks the timeline.
 
 Timestamp is stored in the user profile data.
 
-#AC – Continue Watching
+AC – Continue Watching
 
 If progress > 0, show “Continue from {timestamp}?” modal.
 
@@ -52,7 +52,7 @@ NO → Play from start.
 
 When progress = 100%, show “Completed” state instead.
 
-#AC – Recently Watched List
+AC – Recently Watched List
 
 Show thumbnails + title + last watched timestamp.
 
@@ -60,7 +60,7 @@ Sort videos by last activity (descending).
 
 Clicking item opens video from saved point.
 
-⭐ 4. Use Case – Continue Watching
+##⭐ 4. Use Case – Continue Watching
 
 Actor: User
 Precondition: A saved timestamp exists for the selected video.
@@ -83,18 +83,18 @@ If user has no saved progress → Start from 0:00.
 
 If video is marked as completed → Show "Rewatch" option.
 
-⭐ 5. System Flow Diagram
+##⭐ 5. System Flow Diagram
 
 -(Flowchart PNG will be added here once designed)-
 
-⭐ 6. Wireframes
+##⭐ 6. Wireframes
 
 Video Player Screen
 
 Continue Watching Modal
 -(Wireframes will be added here after design)-
 
-⭐ 7. Key Value Points
+##⭐ 7. Key Value Points
 
 Reduces user drop-off by enabling seamless progress continuation.
 
@@ -104,7 +104,7 @@ Eliminates frustration caused by manual seeking.
 
 Allows clean tracking of learning progress for the platform.
 
-⭐ 8. Tools & Techniques Used
+##⭐ 8. Tools & Techniques Used
 
 User Stories
 
