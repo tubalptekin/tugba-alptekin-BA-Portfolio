@@ -33,8 +33,9 @@
 
 
 <a href="https://github.com/tubalptekin/tugba-alptekin-BA-Portfolio/tree/main/Flight-Disruption-Management-BA-Case">
-    <img src="https://img.shields.io/badge/Flight%20Disruption%20Management%20BA-Case%20Study-C8B6FF?style=for-the-badge&logoColor=4B3B8F" />
-  </a>
+  <img src="https://img.shields.io/badge/Flight%20Disruption%20Mgmt-Aviation%20Case%20Study-6C5CE7?style=for-the-badge&logo=airplane&logoColor=white" />
+</a>
+
   
   <a href="https://github.com/tubalptekin/tugba-alptekin-BA-Portfolio/tree/main/Case-Studies/Visa-Application-Center">
     <img src="https://img.shields.io/badge/Visa%20Application%20Center-Case%20Study-C8B6FF?style=for-the-badge&logoColor=4B3B8F" />
@@ -50,8 +51,6 @@
 
 </p>
 
-
-
 Welcome to my Business Analysis Portfolio — a curated collection of real-world case studies, requirements documentation, user stories, UML/BPMN models, and process improvement work.
 
 This repository reflects how I analyze, structure, design, and improve systems.
@@ -61,7 +60,32 @@ My goal for 2026 is to grow into a strong Business Analyst with solid functional
 
 This repository currently showcases three end-to-end Business Analysis projects, each designed with real industry workflows in mind.
 
-1️⃣ Visa Application Center – Process Analysis
+## 1️⃣✈️ Flight Disruption Management — Aviation Case Study
+
+This is my most detailed and sector-specific analysis so far.
+It focuses on one of the most operationally critical topics in aviation: managing flight delays and their ripple effect across passengers, airport operations, and internal systems.
+
+This case study includes:
+
+End-to-end disruption flow (delay detection → OCC decision → multi-lane handling)
+
+Passenger-facing process (PNR update, notifications, app flows)
+
+Airport operations flow (gate conflicts, FIDS updates)
+
+Operational resources impact (crew legality, aircraft rotation, ground handling)
+
+High-Level System Architecture (OCC systems, event publishing, data flows)
+
+User stories + acceptance criteria
+
+Mockup UI screens
+
+Risks & improvement opportunities
+
+This project reflects how I approach large, multi-stakeholder, time-critical processes — something especially important in aviation & transportation technologies.
+
+### 2️⃣Visa Application Center – Process Analysis
 
 Industry-like, multi-lane workflow analysis inspired by global visa centers.
 
@@ -79,7 +103,7 @@ User stories
 
 Improvements & process redesign
 
-2️⃣ Personnel Performance & Training Tracking System
+### 3️⃣ Personnel Performance & Training Tracking System
 
 (University Capstone Project)
 
@@ -97,7 +121,7 @@ Dashboard concepts
 
 Wireframes (training, enrollment, performance screens)
 
-3️⃣ Video Watching Module (E-learning Feature)
+### 4️⃣ Video Watching Module (E-learning Feature)
 
 Focused on designing a seamless user experience for a learning platform.
 
