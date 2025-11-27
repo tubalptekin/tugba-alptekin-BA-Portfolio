@@ -31,6 +31,11 @@
 ## 🔗 Quick Access  
 <p align="center">
 
+
+<a href="https://https://github.com/tubalptekin/tugba-alptekin-BA-Portfolio/tree/main/Flight-Disruption-Management-BA-Case">
+    <img src="https://img.shields.io/badge/Flight%20Disruption%20Management%20BA-Case%20Study-C8B6FF?style=for-the-badge&logoColor=4B3B8F" />
+  </a>
+  
   <a href="https://github.com/tubalptekin/tugba-alptekin-BA-Portfolio/tree/main/Case-Studies/Visa-Application-Center">
     <img src="https://img.shields.io/badge/Visa%20Application%20Center-Case%20Study-C8B6FF?style=for-the-badge&logoColor=4B3B8F" />
   </a>
