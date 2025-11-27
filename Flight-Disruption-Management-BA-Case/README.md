@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Flight Disruption Management.png" alt="Flight Disruption Management Banner" style="border-radius: 8px;" width="50%">
+  <img src="images/Flight Disruption Management.png" alt="Flight Disruption Management Banner" style="border-radius: 8px;" width="70%">
 </p>
 
 # ✈️ Flight Disruption Management — Business Analysis Case Study
