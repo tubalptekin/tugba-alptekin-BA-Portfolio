@@ -1,117 +1,130 @@
-#📺 Video Watching Module – Business Analysis 
+# 🎬 Video Watching Module – Business Analysis
 
-The Video Watching Module is a core feature of an e-learning platform that enables users to watch videos, track their progress, and seamlessly continue where they left off.
-This analysis focuses on user behavior, progress tracking, and the “Continue Watching” experience.
+This module describes how users watch, pause, and continue videos inside an e-learning platform.  
+The focus of this analysis is the **“Continue Watching”** feature, progress tracking, and a seamless video playback experience.
 
-##⭐ 1. Overview
+---
 
-This module covers how users interact with video content, how the system saves their progress, and how previously watched videos are retrieved.
-It also defines the logic behind the Continue Watching modal and user experience improvements.
+## 📌 1. Overview
 
-##⭐ 2. User Stories
+The Video Watching Module enables users to:
+- Watch selected content
+- Automatically save watch progress
+- Resume videos from the last watched timestamp
+- Track completed or ongoing videos
+- View recently watched content
 
-US-01 – Watch Video
+This module is essential for user engagement, retention, and overall learning continuity in digital platforms.
 
+---
+
+## 🧩 2. User Stories
+
+**US-01 – Watch Video**  
 As a user, I want to watch a selected video so that I can follow the lesson or content.
 
-US-02 – Auto-Save Progress
+**US-02 – Auto-Save Progress**  
+As a user, I want the system to automatically save my watch progress so that I don’t lose my place.
 
-As a user, I want the system to automatically save my progress so I don’t lose my place.
+**US-03 – Continue Watching**  
+As a user, I want to continue watching from where I left off so that I don’t waste time finding my place.
 
-US-03 – Continue Watching
+**US-04 – View Last Watched Videos**  
+As a user, I want to see a list of my recently watched videos so I can quickly resume learning.
 
-As a user, I want to continue a video from where I left off so I don’t have to search manually.
+**US-05 – Completion Tracking**  
+As a user, I want the system to mark videos as completed so I can measure my learning progress.
 
-US-04 – View Recently Watched Videos
+---
 
-As a user, I want to see my last watched videos so I can easily return to ongoing lessons.
+## ✔️ 3. Acceptance Criteria
 
-US-05 – Completion Tracking
+### **AC for US-02 – Auto-Save Progress**
+- System auto-saves the timestamp every 10 seconds  
+- System saves progress when user closes the video  
+- System updates timestamp when user seeks forward or backward  
+- Saved progress is stored in user profile  
 
-As a user, I want videos to be marked as completed so I can track my learning progress.
+### **AC for US-03 – Continue Watching**
+- If progress > 0, system displays “Continue from last position?”  
+- If user clicks **YES**, video resumes from saved timestamp  
+- If user clicks **NO**, video starts from the beginning  
+- If progress = 100%, system shows the “Completed” state  
 
-##⭐ 3. Acceptance Criteria
+---
 
-AC – Auto Save Progress
+## 🔍 4. Use Case – Continue Watching
 
-Progress is saved every 10 seconds.
+**Actor:** User  
+**Precondition:** User has a saved watch progress
 
-Progress is saved when the user closes or pauses the video.
+**Main Flow:**  
+1. User opens video  
+2. System checks saved timestamp  
+3. System displays continue prompt  
+4. User selects option  
+5. System starts playback accordingly  
 
-Progress updates instantly when the user seeks the timeline.
+**Alternate Flow:**  
+- No saved progress → Start at 0:00  
+- Progress = 100% → Show “Rewatch” option  
 
-Timestamp is stored in the user profile data.
+---
 
-AC – Continue Watching
+## 🔄 5. System Flow (Flowchart)
 
-If progress > 0, show “Continue from {timestamp}?” modal.
+📌 *Flowchart image will be added here.*  
+`/flowcharts/video-module-flow.png`
 
-YES → Play from saved timestamp.
+---
 
-NO → Play from start.
+## 🖼️ 6. Wireframes
 
-When progress = 100%, show “Completed” state instead.
+📌 *Wireframes will be added here.*  
+- Video Player UI  
+- Continue Watching Modal  
 
-AC – Recently Watched List
+`/wireframes/video-player.png`  
+`/wireframes/continue-modal.png`
 
-Show thumbnails + title + last watched timestamp.
+---
 
-Sort videos by last activity (descending).
+## ⭐ 7. Business Value / Improvements
 
-Clicking item opens video from saved point.
+This feature improves:
+- **User retention** (users return to unfinished content)  
+- **Platform engagement** (easier navigation)  
+- **UX quality** (no need to manually search playback point)  
+- **Operational efficiency** (fewer support tickets regarding “video reset” issues)  
 
-##⭐ 4. Use Case – Continue Watching
+Future improvements may include:
+- Personalized recommendations based on progress  
+- Progress sync across multiple devices  
+- Offline watch progress synchronization  
 
-Actor: User
-Precondition: A saved timestamp exists for the selected video.
+---
 
-Main Flow
+## 📁 Folder Structure (for this module)
+Video-Watching-Module/
+│
 
-User opens video page.
+├── README.md
 
-System checks saved progress.
+├── use-case/
 
-System displays “Continue where you left off?”
+│ └── continue-watching-usecase.md
 
-User selects YES/NO.
+├── user-stories/
 
-System starts playback according to choice.
+│ └── user-stories.md
 
-Alternate Flow
+├── flowcharts/
 
-If user has no saved progress → Start from 0:00.
+│ └── video-module-flow.png
 
-If video is marked as completed → Show "Rewatch" option.
+└── wireframes/
 
-##⭐ 5. System Flow Diagram
+├── video-player.png
 
--(Flowchart PNG will be added here once designed)-
+└── continue-modal.png
 
-##⭐ 6. Wireframes
-
-Video Player Screen
-
-Continue Watching Modal
--(Wireframes will be added here after design)-
-
-##⭐ 7. Key Value Points
-
-Reduces user drop-off by enabling seamless progress continuation.
-
-Improves user satisfaction and completion rates.
-
-Eliminates frustration caused by manual seeking.
-
-Allows clean tracking of learning progress for the platform.
-
-##⭐ 8. Tools & Techniques Used
-
-User Stories
-
-Acceptance Criteria
-
-Use Case Definition
-
-Process Flow Analysis
-
-Wireframing (Figma / diagrams.net)
