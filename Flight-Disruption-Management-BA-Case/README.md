@@ -22,6 +22,27 @@ This project explores the **end-to-end flow** of managing flight delays from a *
 
 ---
 
+## ✈️ High-Level Delay Handling Flow
+
+This flow illustrates how a detected delay propagates across multiple operational domains  
+(OCC, Passenger Systems, Airport Ops, and Operational Resources).
+
+<p align="center">
+  <img src="./images/disruption-parallel-flow.png" width="800">
+</p>
+
+---
+
+## 🏗 High-Level Architecture (HLA)
+
+The architecture below shows how operational systems interact  
+when a delay update is published from the OCC.
+
+<p align="center">
+  <img src="./images/hla.png" width="850">
+</p>
+
+
 ## 🎯 Objective
 To demonstrate analytical thinking, system interaction understanding, and solution-oriented analysis for aviation operations — especially for teams like Turkish Airlines.
 
