@@ -81,7 +81,7 @@ As a user, I want the system to mark videos as completed so I can measure my lea
 ---
 
 ## 🖼️ 6. Wireframes
-📌
+📌 ***Sample Wireframes***
 - Video Player UI  
 - Continue Watching Modal  
 #### Video Player with Resume Indicator
