@@ -1,3 +1,10 @@
+# *ACTIVITY DIAGRAM*
+ ##### *This flow outlines how the video player determines whether to resume playback from a previously saved timestamp or start from the beginning. It captures the decision-making logic behind the Continue Watching experience, ensuring seamless user interaction and consistent playback behavior. Diagram created in FigJam.*
+
+<p align="center">
+  <img src="../flowcharts/activity-diagram.png" width="600" />
+</p>
+
 # Use Case: Continue Watching 🎬
 
 Use Case ID: UC-VW-01
