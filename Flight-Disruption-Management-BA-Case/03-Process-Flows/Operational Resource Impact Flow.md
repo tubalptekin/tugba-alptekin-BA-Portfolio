@@ -3,7 +3,7 @@
 This diagram shows how delay propagation affects Crew Operations, Fleet / Aircraft Rotation, and Baggage Handling Systems (BHS/BRS).
 Each resource group evaluates operational constraints and ensures readiness before the new ETD.
 
-<p align="center"> <img src="images/operational-resource-impact-flow.png" width="700"> </p>
+<p align="center"> <img src="../images/operational-resource-impact-flow.png" width="700"> </p>
 
 🔍 Key Points (From a BA Perspective)
 
