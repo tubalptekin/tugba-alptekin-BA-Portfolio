@@ -28,7 +28,7 @@ This section highlights the operational, technical, and passenger-facing risks t
 
 ## 🛠 Mitigation Themes (BA Perspective)
 
-1. System Reliability
+**1. System Reliability**
 
 Event-driven architecture
 
@@ -36,7 +36,7 @@ Retry mechanisms
 
 API health monitoring
 
-2. Operational Synchronization
+**2. Operational Synchronization**
 
 Centralized delay-update service
 
@@ -44,7 +44,7 @@ Real-time gate & resource recalculation
 
 Cross-system validation rules
 
-3. Passenger Experience Protection
+**3. Passenger Experience Protection**
 
 Single notification engine
 
@@ -52,7 +52,7 @@ Avoid duplicate or confusing messages
 
 Provide consistent updates across app/SMS/email
 
-4. Decision Support for OCC
+**4. Decision Support for OCC**
 
 Automated ETD suggestion logic
 
