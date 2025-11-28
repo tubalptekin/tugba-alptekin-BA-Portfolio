@@ -74,6 +74,18 @@ This screen shows how passengers can view available alternative flights, accept 
   <img src="images/flight-rebooking-ui.png" width="650">
 </p>
 
+---
+
+## 🔄 System Interaction Overview  
+A visual map showing how OCC, Airport Ops, Passenger Systems, Crew Operations, and BHS interact during a disruption.
+
+<p align="center">
+  <img src="./images/system-interaction-diagram.png" width="650">
+</p>
+
+*Full version available in:* **`05-System-Interaction-Diagram`**
+
+
 ## 📌 Scope
 
 This analysis covers:
