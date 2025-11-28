@@ -116,6 +116,87 @@ This analysis does ***not*** cover:
 - Standardizing disruption-handling events improves OCC efficiency and reduces operational risk.
 
 
+### 🔮 Future Enhancements
+
+This case study can be expanded with additional Business Analysis deliverables and more advanced operational scenarios.
+Below are potential next steps that would further strengthen the model:
+
+**1️⃣ Predictive Delay Modeling (ETA Forecasting)**
+
+Integrate machine learning–based ETA predictions using historical flight, weather, crew, and airport capacity data.
+This would help OCC anticipate disruptions before they occur.
+
+**2️⃣ Passenger Segmentation for Personalized Experience**
+
+Design logic for:
+
+high-value / connecting passengers,
+
+special service passengers (SPML, PRM),
+
+group travelers,
+
+corporate travel accounts.
+
+Each segment would receive tailored rebooking options and notification rules.
+
+**3️⃣ Automated Crew Legality Assessment Rules**
+
+Model detailed FTL rules (flight time limitations) and integrate decision logic for:
+
+illegal crew cases,
+
+reserve crew assignment,
+
+split duty impacts.
+
+Improves realism for operational-resource flows.
+
+**4️⃣ Event-Driven Architecture Upgrade**
+
+Replace batch triggers with an event-driven disruption pipeline, using:
+
+Kafka (or MQ),
+
+change-data-capture streams,
+
+real-time fan-out to OCC, PSS, BHS, and FIDS.
+
+Reduces latency and improves system resilience.
+
+**5️⃣ SCENARIOS: Edge Case Library**
+
+Add diagrams & use cases for operational edge cases such as:
+
+aircraft swap,
+
+last-minute gate change,
+
+crew sickness,
+
+misconnected passengers,
+
+diversion handling,
+
+irregular operations (IRROPS).
+
+**6️⃣ KPI Dashboard Mockups**
+
+Design dashboards to track:
+
+delay propagation timeline,
+
+passenger rebooking funnel,
+
+crew legality violation counts,
+
+missed connections,
+
+AHT (average handling time) for OCC decisions.
+
+Shows BA skill in business intelligence and reporting.
+
+
 ## 📁 Project Structure (This folder will include)
 01-Scope-and-Actors
 
