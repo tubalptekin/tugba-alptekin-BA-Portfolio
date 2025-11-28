@@ -58,7 +58,7 @@ My goal for 2026 is to grow into a strong Business Analyst with solid functional
 
 🚀 What’s Inside This Portfolio?
 
-This repository currently showcases three end-to-end Business Analysis projects, each designed with real industry workflows in mind.
+This repository currently showcases four end-to-end Business Analysis projects, each designed with real industry workflows in mind.
 
 ## 1️⃣✈️ Flight Disruption Management — Aviation Case Study
 
