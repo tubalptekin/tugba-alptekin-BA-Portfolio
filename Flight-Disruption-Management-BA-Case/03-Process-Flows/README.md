@@ -54,3 +54,19 @@ Ensuring transfer bags do not miss connections
 Updating BRS scans and baggage belt timing
 
 Coordination between ramp agents and baggage teams
+
+### ✅ Summary
+
+These three diagrams visualize how flight delays trigger a multi-layer operational response involving:
+
+OCC decision-making
+
+Passenger communication
+
+Airport infrastructure updates
+
+Crew & resource recalculations
+
+Baggage system coordination
+
+They form the foundation for the use cases, user stories, and system interaction diagrams in later sections.
