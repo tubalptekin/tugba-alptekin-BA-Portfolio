@@ -3,5 +3,5 @@
 This diagram illustrates the end-to-end operational flow triggered when a flight delay is detected, showing how OCC, airport operations, passenger systems, and resource management respond in parallel.
 
 <p align="center">
-  <img src="03-Process-Flows/flight-delay-operational-flow.png" width="850">
+  <img src="../images/flight-delay-operational-flow.png" width="850">
 </p>
