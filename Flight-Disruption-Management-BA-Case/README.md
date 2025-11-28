@@ -85,6 +85,14 @@ A visual map showing how OCC, Airport Ops, Passenger Systems, Crew Operations, a
 
 *Full version available in:* **`05-System-Interaction-Diagram`**
 
+## 🛡 Risks & Mitigation Matrix
+
+Flight delays impact multiple operational and passenger-facing systems.
+This matrix summarizes the key risks identified in the analysis and the mitigation strategies designed to reduce disruption impact.
+
+<p align="center"> <a href="./06-Risks-and-Mitigation/README.md"> <img src="images/risk-matrix-preview.png" width="400" alt="Risk & Mitigation Matrix Preview"> </a> </p>
+
+*➡️ Click the image to view the full matrix.*
 
 ## 📌 Scope
 
