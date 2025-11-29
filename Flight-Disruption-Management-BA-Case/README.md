@@ -26,6 +26,24 @@ This project explores the **end-to-end flow** of managing flight delays from a *
 
 ---
 
+## 🗂 Project Overview
+
+This diagram provides a one-glance summary of how flight delays propagate across operational units and how each system responds. It visually connects the key focus areas of this case study:
+
+Delay Detection
+
+OCC Decision Making
+
+Passenger Notification & Rebooking
+
+Gate & Airport Operations Adjustments
+
+Crew, Aircraft & Ground Handling Updates
+
+System-to-System Integration Points
+
+<p align="center"> <img src="./images/project-overview.png" width="600"> </p>
+
 ## ✈️ High-Level Delay Handling Flow
 
 This flow illustrates how a detected delay propagates across multiple operational domains  
