@@ -98,3 +98,4 @@ Bu çalışma kapsamında:
 
 iş analizi bakış açısıyla ele alınmıştır.
 
+*This case study explores regional imbalance in Turkey and proposes a remote-work-centered solution from a Business Analysis perspective.*
