@@ -1,3 +1,5 @@
+![Türkiye’de Bölgesel Dengesizlik ve Uzaktan Çalışma](docs/cover.png)
+
 # Türkiye’de Bölgesel Dengesizlik ve Uzaktan Çalışma Temelli Çözüm Önerisi 🇹🇷💻
 
 **Case Türü:** Sosyal Etki / Kamu Politikası – İş Analizi Bakış Açısı  
