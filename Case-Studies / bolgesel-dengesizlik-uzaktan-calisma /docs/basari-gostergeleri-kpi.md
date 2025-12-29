@@ -61,3 +61,71 @@ Modelin metropollerdeki nüfus ve yaşam baskısını azaltma etkisini dolaylı 
 
 Bu göstergeler doğrultusunda çözüm,
 pilot uygulama sonrasında genişletilmeye veya revize edilmeye uygundur.
+
+
+<br>
+
+
+## 🗺️ Pilot Yol Haritası (0–6–12 Ay)
+
+Bu yol haritası, önerilen çözümün kontrollü, ölçülebilir ve ölçeklenebilir
+şekilde hayata geçirilmesini amaçlamaktadır.
+
+---
+
+### 0–3 Ay | Hazırlık ve Tasarım Aşaması
+**Amaç:** Pilot uygulama için sağlam bir temel oluşturmak
+
+- Pilot şehirlerin belirlenmesi  
+  (altyapı, genç nüfus oranı, internet erişimi gibi kriterlere göre)
+- Uzaktan çalışma teşvik modelinin tanımlanması
+- İlgili kamu kurumları, yerel yönetimler ve özel sektör paydaşlarıyla
+  koordinasyonun sağlanması
+- Başlangıç KPI setinin ve veri toplama yöntemlerinin netleştirilmesi
+
+**Çıktılar:**
+- Pilot şehir listesi  
+- Teşvik çerçevesi  
+- KPI ve raporlama planı
+
+---
+
+### 3–6 Ay | Pilot Uygulama Aşaması
+**Amaç:** Modelin gerçek koşullarda test edilmesi
+
+- Seçili şehirlerde dijital çalışma merkezlerinin (Remote Hubs) kurulması
+- İlk şirketlerin ve uzaktan çalışanların programa dahil edilmesi
+- Eğitim, mentorluk ve networking faaliyetlerinin başlatılması
+- KPI’ların düzenli olarak izlenmesi ve raporlanması
+
+**Çıktılar:**
+- Aktif uzaktan çalışan sayısı  
+- Hub kullanım verileri  
+- Ara değerlendirme raporu
+
+---
+
+### 6–12 Ay | Değerlendirme ve Ölçekleme Aşaması
+**Amaç:** Etkinliği kanıtlanan modelin yaygınlaştırılması
+
+- KPI sonuçlarının analiz edilmesi
+- Güçlü ve zayıf yönlerin tespit edilmesi
+- Teşvik ve uygulama modelinin revize edilmesi
+- Başarılı pilot şehirlerin ve uygulamaların genişletilmesi
+
+**Çıktılar:**
+- Nihai etki analizi raporu  
+- Güncellenmiş teşvik ve uygulama modeli  
+- Ölçekleme ve yaygınlaştırma önerisi
+
+---
+
+### Genel Değerlendirme
+Pilot yol haritası sayesinde çözüm:
+- Kontrollü şekilde test edilebilir
+- Ölçülebilir sonuçlar üretebilir
+- Ulusal ölçekte uygulanabilir hale getirilebilir
+
+Bu yaklaşım, uzaktan çalışmayı geçici bir trend değil,
+veriye dayalı bir bölgesel kalkınma aracı olarak konumlandırmaktadır.
+
